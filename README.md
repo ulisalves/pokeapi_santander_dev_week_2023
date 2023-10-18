@@ -9,7 +9,7 @@ classDiagram
   class Pokemon {
     -name: String
     -img: Img
-    -power: Powers[]
+    -powers: Powers[]
   }
 
   class Img {
